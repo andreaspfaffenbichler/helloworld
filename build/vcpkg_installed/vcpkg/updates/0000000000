@@ -1,0 +1,8 @@
+Package: vcpkg-sample-library
+Version: 1.0.2
+Depends: fmt, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 25f7426c8c5360ac238a0a4a795b217dd352a1724a8e704a54b9f5964bf4d359
+Description: A sample C++ library designed to serve as a foundational example for a tutorial on packaging libraries with vcpkg.
+Status: install ok half-installed

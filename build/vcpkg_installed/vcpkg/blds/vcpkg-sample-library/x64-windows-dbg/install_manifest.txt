@@ -1,0 +1,5 @@
+D:/BitFactory/helloworld/build/vcpkg_installed/vcpkg/pkgs/vcpkg-sample-library_x64-windows/debug/lib/my_sample_lib.lib
+D:/BitFactory/helloworld/build/vcpkg_installed/vcpkg/pkgs/vcpkg-sample-library_x64-windows/debug/include/my_sample_lib.h
+D:/BitFactory/helloworld/build/vcpkg_installed/vcpkg/pkgs/vcpkg-sample-library_x64-windows/debug/share/my_sample_lib/my_sample_lib-targets.cmake
+D:/BitFactory/helloworld/build/vcpkg_installed/vcpkg/pkgs/vcpkg-sample-library_x64-windows/debug/share/my_sample_lib/my_sample_lib-targets-debug.cmake
+D:/BitFactory/helloworld/build/vcpkg_installed/vcpkg/pkgs/vcpkg-sample-library_x64-windows/debug/share/my_sample_lib/my_sample_lib-config.cmake
