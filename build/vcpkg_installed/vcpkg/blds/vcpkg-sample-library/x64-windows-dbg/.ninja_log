@@ -1,4 +1,0 @@
-# ninja log v6
-5	282	7539985953450862	CMakeFiles/my_sample_lib.dir/my_sample_lib.cpp.obj	5be613180bb4a706
-283	308	7539985956239282	my_sample_lib.lib	c847e2e16d4d0f76
-309	342	7539985956494581	CMakeFiles/install.util	f0274b1ce2af426c

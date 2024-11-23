@@ -1,3 +1,0 @@
-D:/BitFactory/helloworld/build/CMakeFiles/HelloWorld.dir
-D:/BitFactory/helloworld/build/CMakeFiles/edit_cache.dir
-D:/BitFactory/helloworld/build/CMakeFiles/rebuild_cache.dir

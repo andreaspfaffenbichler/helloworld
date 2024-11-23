@@ -1,6 +1,0 @@
-D:/BitFactory/helloworld/build/vcpkg_installed/vcpkg/blds/vcpkg-sample-library/x64-windows-dbg/CMakeFiles/my_sample_lib.dir
-D:/BitFactory/helloworld/build/vcpkg_installed/vcpkg/blds/vcpkg-sample-library/x64-windows-dbg/CMakeFiles/edit_cache.dir
-D:/BitFactory/helloworld/build/vcpkg_installed/vcpkg/blds/vcpkg-sample-library/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
-D:/BitFactory/helloworld/build/vcpkg_installed/vcpkg/blds/vcpkg-sample-library/x64-windows-dbg/CMakeFiles/list_install_components.dir
-D:/BitFactory/helloworld/build/vcpkg_installed/vcpkg/blds/vcpkg-sample-library/x64-windows-dbg/CMakeFiles/install.dir
-D:/BitFactory/helloworld/build/vcpkg_installed/vcpkg/blds/vcpkg-sample-library/x64-windows-dbg/CMakeFiles/install/local.dir
