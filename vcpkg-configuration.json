@@ -6,12 +6,11 @@
 	},
 	"registries": [
 		{
-			"kind": "artifact",
-			"location": "https://github.com/microsoft/vcpkg-ce-catalog/archive/refs/heads/main.zip",
-			"name": "microsoft"
+			"kind": "git",
+			"repository": "https://github.com/bitfactory-software/vcpkg",
+			"reference": "with_sample_lib",
+			"baseline": "1fad2b96fd2993f097aaf56926fdfa062b7f0e1e",
+			"packages": [ "vcpkg-sample-library" ]
 		}
-	],
-	"overlay-ports": [
-		"../custom_overlay"
 	]
 }
