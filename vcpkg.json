@@ -1,6 +1,7 @@
 {
   "dependencies": [
     "fmt",
-    "vcpkg-sample-library"
+    "vcpkg-sample-library",
+    "virtual-void"
   ]
 }

@@ -12,5 +12,8 @@
 			"baseline": "1fad2b96fd2993f097aaf56926fdfa062b7f0e1e",
 			"packages": [ "vcpkg-sample-library" ]
 		}
+	],
+	"overlay-ports": [
+		"../custom_overlay"
 	]
 }
