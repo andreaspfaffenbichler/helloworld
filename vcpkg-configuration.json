@@ -9,11 +9,8 @@
 			"kind": "git",
 			"repository": "https://github.com/bitfactory-software/vcpkg",
 			"reference": "with_sample_lib",
-			"baseline": "1fad2b96fd2993f097aaf56926fdfa062b7f0e1e",
-			"packages": [ "vcpkg-sample-library" ]
+			"baseline": "a746e110a6dfb2a2ac9bb7adbfef700dfd0b6123",
+			"packages": [ "vcpkg-sample-library", "virtual-void" ]
 		}
-	],
-	"overlay-ports": [
-		"../custom_overlay"
 	]
 }
