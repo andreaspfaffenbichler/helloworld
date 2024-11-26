@@ -1,15 +1,14 @@
 ﻿// virtual_void variant of this yomm2 example via virtual_void m_tables
 // https://github.com/jll63/yomm2/blob/master/examples/accept_no_visitors.cpp
 
-#include <catch.hpp>
 #include <iostream>
 #include <string>
 
-#include "virtual_void/utillities/unnamed__.hpp"
 
 using std::cout;
 using std::string;
 
+#include "virtual_void/utillities/unnamed__.hpp"
 #include "virtual_void/data/has_m_table/shared_const.hpp"
 #include "virtual_void/open_method/via_m_table/declare.hpp"
 
